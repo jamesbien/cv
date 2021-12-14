@@ -1,0 +1,27 @@
+
+  body {
+    background-color: #F6F2D4;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+  }
+  hr {
+    background-color: #F6F2D4;
+    border-color: #95D1CC;
+    border-style: dotted none none;
+    border-width: 10px;
+    height: 0px;
+    width: 10%;
+  }
+  h1, h2 {
+    color: #22577E;
+  }
+  h3 {
+    color: #22577E;
+  }
+  h4, h5 {
+    color: #22577E;
+  }
+  p, li {
+    color: #5584AC;
+  }
