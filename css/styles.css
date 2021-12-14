@@ -6,6 +6,13 @@
     padding-top: 5%;
     padding-bottom: 5%;
   }
+  img {
+    background-color: #F6F2D4;
+    border-radius: 100%;
+  }
+  img:hover {
+    background-color: #5584AC;
+  }
   hr {
     background-color: #F6F2D4;
     border-color: #95D1CC;
